@@ -16,4 +16,4 @@ Here, I used Proteus 8 Professional in order to simulate AVR Atmega32. I have th
   * The system will stop cars if not already on red light as per request and turn the Pedestrian yellow light
   
   ## Details & Program Flow Chart
-- You can find system details and program flow chart in project documentation [here]
+- You can find system details and program flow chart in project documentation [here](https://github.com/SeifAhmed1102/On-Demand-Traffic-light-Control/blob/main/On-demand%20Traffic%20light/Project_documentation.pdf)
