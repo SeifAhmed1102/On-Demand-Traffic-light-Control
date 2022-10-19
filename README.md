@@ -17,3 +17,4 @@ Here, I used Proteus 8 Professional in order to simulate AVR Atmega32. I have th
   
   ## Details & Program Flow Chart
 - You can find system details and program flow chart in project documentation [here](https://github.com/SeifAhmed1102/On-Demand-Traffic-light-Control/blob/main/On-demand%20Traffic%20light/Project_documentation.pdf)
+- You can find a detailed flow chart explaining the project [here](https://github.com/SeifAhmed1102/On-Demand-Traffic-light-Control/blob/main/On-demand%20Traffic%20light/FlowChart.pdf)
